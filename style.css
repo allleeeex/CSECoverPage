@@ -160,4 +160,7 @@ button:hover {
     text-align: center;
     padding:20px;
     margin-top:40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
