@@ -57,3 +57,13 @@ button {
 button:hover {
     background-color: rgba(0, 136, 169, 0.8);
 }
+
+.container {
+    display:block;
+    margin: auto;
+    width: 50%;
+    height:fit-content;
+    border-radius: 25px;
+    padding: 30px;
+    text-align: center;
+}
