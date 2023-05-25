@@ -94,13 +94,13 @@ button:hover {
     background: url(autumn.png) no-repeat 50% 50%;
     background-size: cover;
     background-attachment: fixed;
-    color: black;
+    color: green;
 }
 
 .aboutme p {
     font-size: 25px;
     font-family: "Montserrat", sans-serif;
-    color: black;
+    color: green;
 }
 
 .hobbies {
@@ -114,13 +114,13 @@ button:hover {
     background: url(winter.png) no-repeat 50% 50%;
     background-size: cover;
     background-attachment: fixed;
-    color: #fff;
+    color: black;
 }
 
 .hobbies p {
     font-size: 25px;
     font-family: "Montserrat", sans-serif;
-    color: #fff;
+    color: black;
 }
 
 #gamepic {
@@ -140,13 +140,13 @@ button:hover {
     background: url(spring.png) no-repeat 50% 50%;
     background-size: cover;
     background-attachment: fixed;
-    color: #fff;
+    color: #c8a47e;
 }
 
 .games p {
     font-size: 25px;
     font-family: "Montserrat", sans-serif;
-    color: #fff;
+    color: #c8a47e;
 }
 
 #Dagger {
