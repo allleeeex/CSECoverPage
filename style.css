@@ -62,12 +62,13 @@ button:hover {
 .container {
     display:block;
     margin: auto;
-    width: 50%;
+    width: 70%;
     height:fit-content;
     border-radius: 25px;
     padding: 30px;
     text-align: center;
     background-color: #315bb9;
+    color: #fff;
 }
 
 .pfp {
@@ -81,10 +82,11 @@ button:hover {
 .aboutme {
     display:block;
     margin: auto;
-    width: 50%;
+    width: 70%;
     height:fit-content;
     border-radius: 25px;
     padding: 30px;
     text-align: center;
     background-color: #766c92;
+    color: #fff;
 }
