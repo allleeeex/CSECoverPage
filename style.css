@@ -40,9 +40,16 @@ body{
 }
 
 #showcase{
-    background-image:url("images/showcase.png");
+    background-color:#766c92;
     background-position: center right;
-    height:300px;
+    min-height:300px;
     margin-bottom:30px;
     text-align: center;
+}
+
+#showcase h1{
+    color:#fff;
+    font-size:50px;
+    line-height:1.6em;
+    padding-top:30px;
 }
