@@ -73,7 +73,7 @@ button:hover {
     border-radius: 25px;
     padding: 30px;
     text-align: center;
-    background-color: #315bb9;
+    background-color: orange;
     color: #fff;
 }
 
@@ -93,7 +93,7 @@ button:hover {
     border-radius: 25px;
     padding: 30px;
     text-align: center;
-    background-color: #766c92;
+    background-color: yellow;
     color: #fff;
 }
 
@@ -104,7 +104,13 @@ button:hover {
     height:fit-content;
     border-radius: 25px;
     padding: 30px;
-    text-align: center;
-    background-color: #244a53;
-    color: #fff;
+    text-align: left;
+    background-color: lightblue;
+    color: black;
+}
+
+#gamepic {
+    width: 20%;
+    height: 60%;
+    float: right;
 }
