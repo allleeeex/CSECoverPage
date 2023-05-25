@@ -25,6 +25,7 @@ header {
     align-items: center;
     padding: 30px 10%;
     background-color: #20bec6;
+    color: white;
     position: sticky;
     top: 0;
 }
