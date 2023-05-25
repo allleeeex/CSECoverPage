@@ -7,6 +7,12 @@ body {
     text-align: center;
 }
 
+p {
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+}
+
 li, a, button {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
@@ -91,8 +97,14 @@ button:hover {
     color: #fff;
 }
 
-p {
-    font-size: 25px;
-    font-family: "Montserrat", sans-serif;
+.hobbies {
+    display:block;
+    margin: auto;
+    width: 70%;
+    height:fit-content;
+    border-radius: 25px;
+    padding: 30px;
+    text-align: center;
+    background-color: #244a53;
     color: #fff;
 }
