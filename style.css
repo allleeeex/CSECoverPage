@@ -27,6 +27,7 @@ header {
     padding: 30px 10%;
     background-color: #20bec6;
     position: sticky;
+    top: 0;
 }
 
 .nav__links {
