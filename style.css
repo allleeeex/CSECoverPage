@@ -4,7 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #20bec6;
+    background-color: #403a56;
 }
 
 li, a, button {
@@ -15,11 +15,16 @@ li, a, button {
     text-decoration: none;
 }
 
+.logo {
+    color: #fff;
+}
+
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
+    background-color: #20bec6;
 }
 
 .nav__links {
