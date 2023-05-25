@@ -3,7 +3,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #403a56;
+    background: url(four_seasons.png) no-repeat 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
     text-align: center;
 }
 
