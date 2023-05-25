@@ -1,55 +1,23 @@
-body{
-    background-color: #403a56;
-    color: #555;
-    font-family:Arial, Helvetica, sans-serif;
-    font-size:16px;
-    line-height: 1.6em;
-    margin:0;
-}
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 
-.container{
-    width:80%;
-    margin:auto;
-    overflow:hidden;
-}
-
-#main-header{
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
     background-color: #20bec6;
+}
+
+li, a, button {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
     color: #fff;
-}
-
-#navbar{
-    background-color: #315bb9;
-    color: #fff;
-}
-
-#navbar ul{
-    padding:0;
-    list-style: none;
-}
-
-#navbar li{
-    display:inline;
-}
-
-#navbar a{
-    color:#fff;
     text-decoration: none;
-    font-size: 18px;
-    padding-right: 15px;
 }
 
-#showcase{
-    background-color:#766c92;
-    background-position: center right;
-    min-height:300px;
-    margin-bottom:30px;
-    text-align: center;
-}
-
-#showcase h1{
-    color:#fff;
-    font-size:50px;
-    line-height:1.6em;
-    padding-top:30px;
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
 }
