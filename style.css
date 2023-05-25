@@ -7,12 +7,6 @@ body {
     text-align: center;
 }
 
-p {
-    font-size: 25px;
-    font-family: "Montserrat", sans-serif;
-    color: #fff;
-}
-
 li, a, button {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
@@ -77,6 +71,12 @@ button:hover {
     color: #fff;
 }
 
+p {
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+}
+
 .pfp {
     border-radius: 20%;
     width: 20%;
@@ -94,7 +94,13 @@ button:hover {
     padding: 30px;
     text-align: center;
     background-color: yellow;
-    color: #fff;
+    color: black;
+}
+
+.aboutme p {
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    color: black;
 }
 
 .hobbies {
@@ -106,11 +112,35 @@ button:hover {
     padding: 30px;
     text-align: left;
     background-color: lightblue;
-    color: black;
+    color: #fff;
+}
+
+.hobbies p {
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
 }
 
 #gamepic {
     width: 20%;
     height: 60%;
     float: right;
+}
+
+.games {
+    display:block;
+    margin: auto;
+    width: 70%;
+    height:fit-content;
+    border-radius: 25px;
+    padding: 30px;
+    text-align: left;
+    background-color: green;
+    color: #fff;
+}
+
+.games p {
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
 }
