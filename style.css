@@ -16,8 +16,7 @@ li, a, button {
 }
 
 .logo {
-    color: #fff;
-    background-color: #20bec6;
+    cursor: pointer;
 }
 
 header {
