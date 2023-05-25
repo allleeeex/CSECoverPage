@@ -138,3 +138,9 @@ button:hover {
     font-family: "Montserrat", sans-serif;
     color: #fff;
 }
+
+#Dagger {
+    width: 20%;
+    height: 60%;
+    float: right;
+}
