@@ -9,7 +9,7 @@ body{
 
 .container{
     width:80%;
-    margin:auto;
+    margin:0;
     overflow:hidden;
 }
 
@@ -37,4 +37,8 @@ body{
     text-decoration: none;
     font-size: 18px;
     padding-right: 15px;
+}
+
+#showcase{
+    background-image:url
 }
