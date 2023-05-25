@@ -90,3 +90,9 @@ button:hover {
     background-color: #766c92;
     color: #fff;
 }
+
+p {
+    font-size: 25px;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+}
