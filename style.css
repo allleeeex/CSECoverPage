@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #403a56;
+    text-align: center;
 }
 
 li, a, button {
