@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:500');
 
-* {
-    box-sizing: border-box;
+body {
     margin: 0;
     padding: 0;
     background-color: #403a56;
@@ -17,6 +16,7 @@ li, a, button {
 
 .logo {
     color: #fff;
+    background-color: #20bec6;
 }
 
 header {
@@ -29,6 +29,7 @@ header {
 
 .nav__links {
     list-style: none;
+    background-color: #20bec6;
 }
 
 .nav__links li {
